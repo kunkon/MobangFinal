@@ -33,11 +33,11 @@
 					<div class="button_group">
 						<input class="login_btn" type="submit" value="로그인">
 						<div class="sns" id="sns_naver">
-							<img src="resources/images/naver.png" class="img-rounded">
+							<img src="resources/login/img/naver.png" class="img-rounded">
 							<input class="sns_btn" id="naver" type="button" value="네이버 로그인">
 						</div>
 						<div class="sns" id="sns_kakao">
-							<img src="resources/images/kakao.JPG" class="img-rounded">
+							<img src="resources/login/img//kakao.JPG" class="img-rounded">
 							<input class="sns_btn" id="kakao" type="button" value="카카오톡 로그인">
 						</div>
 					</div >
